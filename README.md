@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabrizio1992111&label=Profile%20views&color=0e75b6&style=flat" alt="fabrizio1992111" /> </p>
 
--🔭 I am currently in search of looking for an opportunity to take my first steps as a Data Scientist, where I will be able to make great contributions due to my background as a teacher, engineer and future researcher.
+- 🔭 I am currently in search of looking for an opportunity to take my first steps as a Data Scientist, where I will be able to make great contributions due to my background as a teacher, engineer and future researcher.
 
 - 📫 How to reach me **faguzzi92@gmail.com**
 
@@ -35,14 +35,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Fortran_logo%2C_used_for_Fortran_77_and_Fortran_90_programming_languages.svg" alt="fortran" width="40" height="40"/>
+  <a href="https://www.code-aster.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.code-aster.org/V2/IMG/Txt/carre-code-aster.png" alt="code-aster" width="40" height="40"/>
   </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudiocode/visualstudiocode-original.svg" alt="vscode" width="40" height="40"/>
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg" alt="autocad" width="40" height="40"/>
   </a>
 </p>
 
