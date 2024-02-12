@@ -5,7 +5,7 @@
 
 - 🔭 I am currently in search of looking for an opportunity to take my first steps as a Data Scientist, where I will be able to make great contributions due to my background as a teacher, engineer and future researcher.
 
-- 📫 How to reach me **faguzzi92@gmail.com**
+- 📫 How to reach me **faguzzi92@gmail.com** or my phone **+5493804523556**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
