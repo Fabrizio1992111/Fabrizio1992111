@@ -44,6 +44,9 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Fabrizio1992111/Fabrizio1992111/main/Visual_Studio_Code_1.35_icon.svg" alt="visualstudio code" width="40" height="40"/>
   </a>
+  <a href="https://www.code-aster.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Fabrizio1992111/Fabrizio1992111/main/codeaster.svg" alt="codeaster" width="40" height="40"/>
+  </a>
 </p>
 
 
