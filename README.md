@@ -14,6 +14,12 @@
   <a href="https://www.linkedin.com/in/fabrizio-aguzzi-8a3756298/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="mailto:faguzzi92@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/paulrobertlloyd/email-icon/master/email.svg" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/5493804523556" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -63,4 +69,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrizio1992111&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
-
